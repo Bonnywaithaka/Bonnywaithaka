@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bonnywaithaka
 - 👀 I’m interested in ... software testing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...ISQBT
+- 💞️ I’m looking to collaborate on .. OTHERS
 - 📫 How to reach me ...
 
 <!---
